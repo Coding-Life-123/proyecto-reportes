@@ -20,11 +20,15 @@
   },
   "homepage": "https://github.com/Coding-Life-123/proyecto-reportes#readme",
   "dependencies": {
+    "adm-zip": "^0.5.16",
     "bcrypt": "^6.0.0",
+    "crypto": "^1.0.1",
     "express-validator": "^7.3.1",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.4",
     "nodemailer": "^8.0.1",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "playwright": "^1.58.2",
+    "swagger": "^0.7.5"
   }
 }
